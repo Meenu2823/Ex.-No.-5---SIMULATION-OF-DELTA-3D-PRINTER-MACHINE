@@ -1,6 +1,6 @@
 # Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
-### DATE: 
+### DATE: 21.11.23
 ## AIM:
 ### To simulate the construction of delta 3D printer and to get in-depth knowledge of mechatronics of delta 3D printer.
 
@@ -25,14 +25,20 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+![em5ss1](https://github.com/Meenu2823/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139416219/79d327f6-d658-4598-84ab-1aacdccfc488)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+![esm5ss2](https://github.com/Meenu2823/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139416219/6d276786-a86b-430e-8e6c-2e73e50cc156)
+
+![em5ss3](https://github.com/Meenu2823/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139416219/addb4c36-2577-4b90-823f-2527a05c1ddd)
+
+![em5ss4](https://github.com/Meenu2823/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/139416219/adedd2ed-b6a9-419f-bced-33c9511d1f6a)
+
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Meenu.S
+### Register Number: 23003303
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
